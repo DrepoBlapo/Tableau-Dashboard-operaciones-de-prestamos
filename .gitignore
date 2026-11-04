@@ -1,0 +1,5 @@
+
+# Solo publicar el banner final
+/banner/*
+!/banner/
+!/banner/banner_github.png

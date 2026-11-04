@@ -1,4 +1,6 @@
-# Tableau-Dashboard-operaciones-de-préstamos
+![Banner](banner/banner_github.png)
+
+## Proyecto
 
 _ES_:
 Muestra de un panel de control de operaciones de préstamos utilizando Tableau.
